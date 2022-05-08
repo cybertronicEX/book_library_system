@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable/custom_button_back.xml" value="0.147" />
-        <entry key="app/src/main/res/drawable/progress_back.xml" value="0.147" />
-        <entry key="app/src/main/res/drawable/round_drawable.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/activity_edit_book.xml" value="0.17980072463768115" />
-        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1885" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/drawable/ic_add.xml" value="0.8" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/drawable/ic_empty.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1885" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_update.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/layout/my_row.xml" value="0.13953488372093023" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MiniProject/app/src/main/res/menu/my_menu.xml" value="0.128" />
       </map>
     </option>
   </component>
